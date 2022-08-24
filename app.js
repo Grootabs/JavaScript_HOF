@@ -41,7 +41,7 @@ let users = [
 ];
 
 function logName(obj) {
-    consolelog(user.name)
+    console.log(user.name)
 }
 
 users.forEach(logName);
